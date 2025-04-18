@@ -1,5 +1,5 @@
 ```bash
-uv venv
+uv venv --seed
 ```
 
 ```bash
